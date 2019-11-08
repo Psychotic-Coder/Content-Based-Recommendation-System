@@ -1,31 +1,31 @@
 # Content-Based-Recommendation-System
-PROJECT: LAPTOP RECOMMENDER SYSTEM
+PROJECT: LAPTOP RECOMMENDER SYSTEM <br />
 AUTHOR: Ashwin Adarsh
 
-// DEVELOPED ON UBUNTU
-// WEB-APPLICATION FOR LAPTOP RECOMMENDATION BASED ON USER BROWSING HISTORY
+// DEVELOPED ON UBUNTU <br />
+// WEB-APPLICATION FOR LAPTOP RECOMMENDATION BASED ON USER BROWSING HISTORY <br />
 
-TECHNOLOGIES USED:
-	1. PYTHON
-	2. ANGULAR CLI
+### TECHNOLOGIES USED:
+	- PYTHON
+	- ANGULAR CLI
+<br />
+PYTHON IS USED FOR BACKEND, BASED ON FLASK FRAMEWORK.<br />
+ANGULAR IS USED FOR FRONTEND.<br /><br />
 
-PYTHON IS USED FOR BACKEND, BASED ON FLASK FRAMEWORK.
-ANGULAR IS USED FOR FRONTEND.
+// SETUP<br />
+### PRE-REQUISITES:
+	- python version >=3.6.8
+	- pip version >=9.0.1
+	- npm version >=6.11.3
+	- ng version >=8.3.14
+	- stable internet
 
-// SETUP
-PRE-REQUISITES:
-	python version >=3.6.8
-	pip version >=9.0.1
-	npm version >=6.11.3
-	ng version >=8.3.14
-	stable internet
+### RUN BACKEND SERVER:
+	- cd into direcctory
+	- pip3 install -r requirements.txt
+	- python3 server.py
 
-// BACKEND SERVER
-	cd into direcctory
-	pip3 install -r requirements.txt
-	python3 server.py
-
-// FRONTEND SERVER
-	cd into directory
-	npm install
-	ng serve
+### RUN FRONTEND SERVER:
+	- cd into directory
+	- npm install
+	- ng serve
